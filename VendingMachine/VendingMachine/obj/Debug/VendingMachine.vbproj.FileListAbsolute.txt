@@ -1,0 +1,32 @@
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\bin\Debug\VendingMachine.xml
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Resources.resources
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.vbproj.GenerateResource.Cache
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.xml
+c:\users\nicholls\documents\visual studio 2012\Projects\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+D:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+D:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+D:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+D:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.xml
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.vbprojAssemblyReference.cache
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Resources.resources
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.vbproj.GenerateResource.cache
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.vbproj.CoreCompileInputs.cache
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.xml
+D:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+E:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe.config
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.exe
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.xml
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.pdb
+E:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.exe
+E:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.pdb
+E:\CIS 255\VendingMachine\VendingMachine\bin\Debug\VendingMachine.xml
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Form1.resources
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.Resources.resources
+E:\CIS 255\VendingMachine\VendingMachine\obj\Debug\VendingMachine.vbproj.GenerateResource.Cache
